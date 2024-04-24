@@ -1,0 +1,6 @@
+
+train: /content/drive/MyDrive/Data_Science/ML-DL_projects/facedetection/datasets/train/images
+val: /content/drive/MyDrive/Data_Science/ML-DL_projects/facedetection/datasets/val/images
+
+nc: 12  # Number of classes
+names: ['Alexander', 'Daniel', 'John', 'William', 'Robert', 'Joseph', 'Michael', 'James', 'Benjamin', 'Samuel', 'shidhu', 'David']  # Class names

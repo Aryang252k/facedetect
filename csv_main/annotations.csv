@@ -1,0 +1,13 @@
+,image_path,x_min,y_min,x_max,y_max,class_label
+0,/content/drive/MyDrive/Data_Science/ML-DL_projects/facedetection/faces/Alexander.png,0.49375,0.2734375,0.271875,0.271875,Alexander
+1,/content/drive/MyDrive/Data_Science/ML-DL_projects/facedetection/faces/Daniel.png,0.5234375,0.334375,0.321875,0.321875,Daniel
+2,/content/drive/MyDrive/Data_Science/ML-DL_projects/facedetection/faces/John.png,0.52265625,0.30390625,0.4640625,0.4640625,John
+3,/content/drive/MyDrive/Data_Science/ML-DL_projects/facedetection/faces/William.png,0.47890625,0.43046875,0.4234375,0.4234375,William
+4,/content/drive/MyDrive/Data_Science/ML-DL_projects/facedetection/faces/Robert.png,0.56484375,0.40546875,0.5359375,0.5359375,Robert
+5,/content/drive/MyDrive/Data_Science/ML-DL_projects/facedetection/faces/Joseph.png,0.4390625,0.190625,0.246875,0.246875,Joseph
+6,/content/drive/MyDrive/Data_Science/ML-DL_projects/facedetection/faces/Michael.png,0.41015625,0.47890625,0.4671875,0.4671875,Michael
+7,/content/drive/MyDrive/Data_Science/ML-DL_projects/facedetection/faces/James.png,0.4609375,0.3484375,0.4375,0.4375,James
+8,/content/drive/MyDrive/Data_Science/ML-DL_projects/facedetection/faces/Benjamin.png,0.44296875,0.32578125,0.2546875,0.2546875,Benjamin
+9,/content/drive/MyDrive/Data_Science/ML-DL_projects/facedetection/faces/Samuel.png,0.628125,0.2359375,0.19375,0.19375,Samuel
+10,/content/drive/MyDrive/Data_Science/ML-DL_projects/facedetection/faces/shidhu.png,0.546875,0.3453125,0.240625,0.240625,shidhu
+11,/content/drive/MyDrive/Data_Science/ML-DL_projects/facedetection/faces/David.png,0.51171875,0.34140625,0.4640625,0.4640625,David
